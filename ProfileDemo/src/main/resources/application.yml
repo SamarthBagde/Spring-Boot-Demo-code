@@ -1,0 +1,7 @@
+#spring:
+#  application:
+#    name: ProfileDemo
+#
+#app:
+#  welcome:
+#    message: "Hello, welcome to my application"
