@@ -1,0 +1,13 @@
+package com.example.SpringSecurityDemo.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.Getter;
+import lombok.Setter;
+
+@Getter
+@Setter
+@AllArgsConstructor
+public class LoginResponseDto {
+    private String accessToken;
+}
